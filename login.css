@@ -1,0 +1,35 @@
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    margin: 10%;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    padding: 1px;
+}
+
+header{
+    background-color:aqua;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10rem;
+}
+
+
+
+.input{
+    text-align:none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif
+}
+
+button{
+   font-size: large;
+   background-color: skyblue;
+   color:white;
+   text-align: center;
+}
+
+body{
+    border: 3px solid black;
+}
+
